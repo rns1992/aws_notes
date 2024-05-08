@@ -1,0 +1,26 @@
+## AWS Lambda Interview Questions
+
+1) What are the limitations of aws lambda?
+	-
+2) How do you make versioning of lambda code?
+3) How do you code, deploy and debug the lambda functions on aws?
+4) How lambda functions were been configured ?
+5) Best practices for lambda configurations?
+6) how basically lambda function in aws deploying multiple infrastructure?
+7) Packaging deployment
+8) How can we create deployment package?
+9) We have a use case script execution run for taking 25 mins would u prefer in lambda or other ?
+10) Write a sample AWS Lambda function.
+11) What are event and context parameters in Lambda?
+12) When a database has a 100-connection limit, how do you handle 1000 Lambda requests to the database?
+13) How can you create/share common DB connection code among Lambdas?
+14) Compare Lambda vs. EC2.
+15) How many ways can a Lambda be triggered?
+16) How do you deploy EC2 instances, API Gateway, and Lambda?
+17) How do you invoke a Lambda to generate a PDF report on a daily basis?
+18) What is the Lambda max upload size?
+19) What are Lambda layers, and where do you create them?
+20) How does SQS trigger Lambda?
+21) What are the limitations of Lambda?
+22) Write sample AWS Lambda function, what is event and context.
+23) When db has 100 connection limit, How to handle 1000 lambda request to the database 
